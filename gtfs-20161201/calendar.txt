@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+dn_20161201_weekday,1,1,1,1,1,0,0,20161201,20180331
+dn_20161201_holiday,0,0,0,0,0,1,1,20161201,20180331
+dn_20161201_schoolday,0,0,0,0,0,0,0,20161201,20180331
